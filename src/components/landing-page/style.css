@@ -1,0 +1,19 @@
+.landing-page {
+    padding-bottom: 53px;
+}
+.landing-page .sign-up {
+    background-color: #FBD675;
+    color: #111;
+    transition: 0.3s ease;
+    border: 0;
+}
+.landing-page .sign-up:hover {
+    background-color: #fccb4f;
+    color: #111;
+}
+.landing-page .content p {
+    line-height: 2.2;
+    letter-spacing: 0.2px;
+    width: 340px;
+    color: #B1B1B1;
+}

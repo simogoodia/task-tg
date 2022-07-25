@@ -1,0 +1,20 @@
+@import url(//db.onlinewebfonts.com/c/b86c0f3afb7b6eb1952be1d4c753140c?family=Al-Jazeera-Arabic-Regular);
+html {
+  direction: rtl;
+}
+
+body {
+  margin: 0;
+  @font-face {
+      font-family: "Al-Jazeera-Arabic-Regular";
+      src: url("//db.onlinewebfonts.com/t/b86c0f3afb7b6eb1952be1d4c753140c.eot");
+      src: url("//db.onlinewebfonts.com/t/b86c0f3afb7b6eb1952be1d4c753140c.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/b86c0f3afb7b6eb1952be1d4c753140c.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/b86c0f3afb7b6eb1952be1d4c753140c.woff") format("woff"), url("//db.onlinewebfonts.com/t/b86c0f3afb7b6eb1952be1d4c753140c.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/b86c0f3afb7b6eb1952be1d4c753140c.svg#Al-Jazeera-Arabic-Regular") format("svg");
+    }
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

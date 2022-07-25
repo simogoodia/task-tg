@@ -1,0 +1,15 @@
+footer {
+    background-color: #F8F8F8;
+    color: #111;
+}
+footer .content .policy {
+    cursor: pointer;
+    border-bottom: 1px solid transparent;
+    transition: 0.3s ease;
+}
+footer .content .policy:hover {
+    border-bottom: 1px solid #111;
+}
+/* footer .content .copyright .copy {
+    text-align: end;
+} */

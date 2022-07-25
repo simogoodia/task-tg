@@ -1,0 +1,22 @@
+.logo {
+    width: 70px;
+    cursor: pointer;
+}
+.signup-signin .sign-in,
+.signup-signin .sign-in:hover {
+    color: #FBD675;
+    border-bottom: 1px solid transparent;
+}
+.signup-signin .sign-in:hover {
+    border-bottom: 1px solid #FBD675;
+}
+.signup-signin .sign-up {
+    background-color: #FBD675;
+    color: #111;
+    transition: 0.3s ease;
+    border: 0;
+}
+.signup-signin .sign-up:hover {
+    background-color: #fccb4f;
+    color: #111;
+}
