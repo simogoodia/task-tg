@@ -9,7 +9,7 @@ function Footer() {
                 <div className="content d-flex justify-content-between">
                     <div className="contact-us">
                         <span className="ms-4">تواصل معنا</span>
-                        <img src="../imgs/icons.svg" />
+                        <img src="./imgs/icons.svg" />
                     </div>
                     <div className="copyright">
                         <span className="ms-5 policy">سياسة الخصوصية</span>

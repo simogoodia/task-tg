@@ -10,7 +10,7 @@ function Navbar() {
             <Container>
                 <Nav className="ms-auto align-items-center">
                     <Nav>
-                        <img src="../imgs/logo.svg" alt="اللعبة" className="ms-3 logo"/> 
+                        <img src="./imgs/logo.svg" alt="اللعبة" className="ms-3 logo"/> 
                     </Nav>
                     <Nav.Link to="/" as={NavLink}>
                         الصفحة الرئيسية

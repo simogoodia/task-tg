@@ -15,7 +15,7 @@ function LandingPage() {
                     </button>
                 </Nav.Link>
             </div>
-            <img src="../imgs/main.svg" />
+            <img src="./imgs/main.svg" />
         </div>
     );
 }
