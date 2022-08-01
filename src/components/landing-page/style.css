@@ -17,3 +17,6 @@
     width: 340px;
     color: #B1B1B1;
 }
+.download img {
+    cursor: pointer;
+}

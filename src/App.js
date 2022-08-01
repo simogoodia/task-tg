@@ -11,7 +11,7 @@ function App() {
       <Navbar />
       <Container className='mb-4'>
         <Routes>
-          <Route path="/" element={<LandingPage />} />
+          <Route path="/" element={<LandingPage />} exact />
         </Routes>
       </Container>
       <Footer />
